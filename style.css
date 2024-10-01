@@ -1,0 +1,181 @@
+body{
+
+	background-image:url(images/four.jpg);
+	font-family:Sitka Banner;
+	
+}
+#masthead h1{
+	color:white;
+	text-align:center;
+	padding-top: 130px;
+	font-size: 45px;
+	font-family:Cascadia Mono SemiBold;
+}
+#masthead h2{
+	color:white;
+	text-align:center;
+	font-size: 22px;
+	padding-top:0px;
+	padding-bottom: 200px;
+	font-family:Cascadia Mono SemiBold;
+}
+#masthead h3{
+	color:white;
+	font-size: 25px;
+	font-family:Cascadia Mono SemiBold;
+}
+.one li a{
+	color:white;
+	text-decoration:none;
+}
+
+nav{
+	width: 70%;
+}
+nav ul {
+	padding:0;
+	display: flex;
+	justify-content:space-around;
+	list-style-type:none;
+	font-family:MV Boli;
+}
+
+.first {
+	background-color:white;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:10px;
+}
+.flex1{
+	display:flex;
+}
+.pictures{
+	background-color:#ffeee6;
+}
+.power{
+	background-color:white;
+	padding:50px;
+}
+.doh{
+	display: flex;
+}
+.doh2{
+	background-color:#d3d3d3;
+}
+.strength{
+	display:flex;
+}
+.fruit{
+	display:flex;
+
+}
+.gear2{
+	display:flex;
+}
+.gear4{
+	display:flex;
+}
+.haki1{
+	display:flex;
+}
+.aba{
+	display: flex;
+	align-items:center;
+	justify-content:space-between;
+}
+.pictures{
+	display: flex;
+}
+.top{
+	padding:60px;
+	list-style-type:none;
+background-color:#d3d3d3;
+}
+.top li a {
+	color:black;
+	text-decoration:none;
+}
+.top h3 {
+	text-decoration:underline;
+}
+.top li {
+	padding-bottom:10px;
+}
+
+.info{
+	background-color:white;
+	text-align:center;
+}
+.info h2{
+	text-align:left;
+	padding:10px;
+}
+.site{
+	background-color:#18181a;
+	height:90px;
+	padding: 50px;
+
+
+}
+.site ul {
+	display: flex;
+	justify-content:space-around;
+	list-style-type:none;
+	font-family:MV Boli;
+
+}
+.site li a {
+	text-decoration:none;
+	color: white;
+	font-size:16px;
+}
+.history {
+	background-color:white;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:10px;
+}
+.birth{
+	display: flex;
+}
+.meet {
+	display:flex;
+}
+.arlong {
+	display:flex;
+}
+.destroy{
+	display: flex;
+}
+.nami{
+	display:flex;
+} 
+.top2{
+	padding:60px;
+	list-style-type:none;
+background-color:#d3d3d3;
+}
+.top2 li a {
+	color:black;
+	text-decoration:none;
+}
+.top2 h3 {
+	text-decoration:underline;
+}
+.top2 li {
+	padding-bottom:10px;
+}
+.about{
+	background-color:white;
+}
+.pic{
+	text-align:center;
+}
+.aba a {
+		color:white;
+	text-decoration:none;
+}
+.ref{
+	background-color:white;
+	text-align:center;
+}
